@@ -1,0 +1,17 @@
+li{
+    color:#4D5656;
+    list-style-type:none;
+    display: flex;
+    text-align: left;
+    justify-content: left;
+}
+.btn-remove{
+    position: absolute;
+    right:675px;
+   border-radius: 0.3rem;
+   background-color: transparent;
+   border-color: #F1948A;
+    font-family: 'Architects Daughter', cursive;
+    color:#4D5656;
+}
+

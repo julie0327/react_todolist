@@ -1,0 +1,22 @@
+h1{
+color:#4D5656;
+font-size: 2rem;
+}
+.input{
+    background-color: transparent;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 0.8rem;
+    color:#4D5656;
+    border:none;
+    border-bottom: dashed #707B7C;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.btn{
+    box-sizing: border-box;
+    background-color: transparent;
+    border-radius: 5px;
+    border-color: #F1948A;
+    font-family: 'Architects Daughter', cursive;
+    color:#4D5656
+}

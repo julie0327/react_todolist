@@ -1,0 +1,17 @@
+body{
+  background-color: pink;
+  display:flex;
+  justify-content: center;
+  padding: 1rem;
+  min-height: 70vh;
+  font-family: 'Architects Daughter', cursive;
+  text-align: center;
+  font-size: 130%;
+  
+}
+.container{
+  height: 600px;
+  width: 300px;
+  border: solid palevioletred;
+  border-radius: 30px;
+}
